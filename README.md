@@ -42,13 +42,12 @@ Apartment-Management-System/
 │-- backend/                   # Server-side code (API & database)
 │-- frontend/                  # Client-side code (React UI)
 │-- README.md                   # Documentation
-│-- .gitignore                   # Ignore unnecessary files
 ```
 
 ## ⚡ Setup & Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Apartment-Management-System.git
+   git clone https://github.com/Guthulagunavardhan/Apartment-Management-System.git
    cd Apartment-Management-System
    ```
 
